@@ -1,0 +1,6 @@
+# Packages
+__pycache__
+lib
+lib64
+
+myenv
