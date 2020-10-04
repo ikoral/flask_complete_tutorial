@@ -4,3 +4,6 @@ lib
 lib64
 
 myenv
+
+# Normally app.db should be here.
+
